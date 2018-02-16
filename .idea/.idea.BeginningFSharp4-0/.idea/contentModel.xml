@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BeginningFSharp4-0.sln" t="IncludeFlat" />
+      <e p="Chapter10" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter10.fsproj" t="IncludeRecursive" />
+        <e p="Http.fs" t="Include" />
+        <e p="HttpGoogleSpreadsheets.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="Chapter10ConsoleApplication" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="AssemblyInfo.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter10ConsoleApplication.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="Chapter10MVC5" t="IncludeRecursive">
+        <e p="AssemblyInfo.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter10MVC5.fsproj" t="IncludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="bootstrap-theme.css" t="Include" />
+          <e p="bootstrap-theme.css.map" t="Include" />
+          <e p="bootstrap-theme.min.css" t="Include" />
+          <e p="bootstrap.css" t="Include" />
+          <e p="bootstrap.css.map" t="Include" />
+          <e p="bootstrap.min.css" t="Include" />
+          <e p="Site.css" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="ShortenerController.fs" t="Include" />
+        </e>
+        <e p="fonts" t="Include">
+          <e p="glyphicons-halflings-regular.eot" t="Include" />
+          <e p="glyphicons-halflings-regular.svg" t="Include" />
+          <e p="glyphicons-halflings-regular.ttf" t="Include" />
+          <e p="glyphicons-halflings-regular.woff" t="Include" />
+        </e>
+        <e p="Global.asax" t="Include" />
+        <e p="Global.asax.fs" t="Include" />
+        <e p="Index.html" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Car.fs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="readme.txt" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="bootstrap.js" t="Include" />
+          <e p="bootstrap.min.js" t="Include" />
+          <e p="main.js" t="Include" />
+          <e p="modernizr-2.6.2.js" t="Include" />
+          <e p="npm.js" t="Include" />
+        </e>
+        <e p="Web.config" t="Include" />
+      </e>
+      <e p="Chapter10MVC5_Shortener" t="IncludeRecursive">
+        <e p="AssemblyInfo.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter10MVC5_Shortener.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Shortener.fs" t="Include" />
+      </e>
+      <e p="Chapter11" t="IncludeRecursive">
+        <e p="AbstractSyntaxTree.fs" t="Include" />
+        <e p="AbstractSyntaxTreeCompiled.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter11.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Quotations.fs" t="Include" />
+      </e>
+      <e p="Chapter11ConsoleApp" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter11ConsoleApp.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="Chapter11ConsoleApp2" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="AssemblyInfo.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter11ConsoleApp2.fsproj" t="IncludeRecursive" />
+        <e p="Combinators.fs" t="Include" />
+        <e p="Form.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="Chapter12" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Book1.xls" t="Include" />
+        <e p="Chapter12.fsproj" t="IncludeRecursive" />
+        <e p="COMToExcel.fs" t="Include" />
+        <e p="DefiningTypesInANamespace.fs" t="Include" />
+        <e p="ExposingAbstractMembers.fs" t="Include" />
+        <e p="ExposingClassesAndInterfaces.fs" t="Include" />
+        <e p="ExposingDiscriminatedUnions.fs" t="Include" />
+        <e p="ExposingDiscriminatedUnionsWithMembers.fs" t="Include" />
+        <e p="ExposingFunctionsThatTakeFunctions.fs" t="Include" />
+        <e p="ExposingLists.fs" t="Include" />
+        <e p="ExposingTuples.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="PInvokeFileEncryptionStatus.fs" t="Include" />
+        <e p="PInvokeMessageBeep.fs" t="Include" />
+      </e>
+      <e p="Chapter12COM" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter12COM.fsproj" t="IncludeRecursive" />
+        <e p="ExposingFSharpViaCOM.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="Chapter12CSharp" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter12CSharp.csproj" t="IncludeRecursive" />
+        <e p="CSharpClass.cs" t="Include" />
+        <e p="CurriedAndTupledClass.cs" t="Include" />
+        <e p="GetQuantityOneClass.cs" t="Include" />
+        <e p="GetQuantityThreeClass.cs" t="Include" />
+        <e p="GetQuantityTwoClass.cs" t="Include" />
+        <e p="GetQuantityZeroClass.cs" t="Include" />
+        <e p="MapOneClass.cs" t="Include" />
+        <e p="MapTwoClass.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="PrintClass.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Chapter12CSharpConsoleApp" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter12CSharpConsoleApp.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Chapter12CSharpConsoleApp2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter12CSharpConsoleApp2.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Chapter13" t="IncludeRecursive">
+        <e p="AdventureWorks.fs" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter13.fsproj" t="IncludeRecursive" />
+        <e p="JoiningDatasets.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Stations.csv" t="Include" />
+        <e p="Stations_full.csv" t="Include" />
+        <e p="Stations_short.csv" t="Include" />
+        <e p="StationsByUsage.fs" t="Include" />
+        <e p="StationsOnLine.fs" t="Include" />
+        <e p="StationsSample.csv" t="Include" />
+        <e p="StationWithMostLetters.fs" t="Include" />
+        <e p="Underground.fs" t="Include" />
+        <e p="Underground2.fs" t="Include" />
+        <e p="Underground3.fs" t="Include" />
+        <e p="UndergroundHtml.fs" t="Include" />
+        <e p="UndergroundHtml2.fs" t="Include" />
+      </e>
+      <e p="Chapter3" t="IncludeRecursive">
+        <e p="ActivePatterns.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter03.fsproj" t="IncludeRecursive" />
+        <e p="ControlFlow.fs" t="Include" />
+        <e p="DiscriminatedUnions.fs" t="Include" />
+        <e p="Exceptions.fs" t="Include" />
+        <e p="FunctionApplication.fs" t="Include" />
+        <e p="IdentifiersAndLetBindings.fs" t="Include" />
+        <e p="LazyEvaluation.fs" t="Include" />
+        <e p="ListComprehensions.fs" t="Include" />
+        <e p="Lists.fs" t="Include" />
+        <e p="Literals.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Operators.fs" t="Include" />
+        <e p="PartialApplication.fs" t="Include" />
+        <e p="PatternMatching.fs" t="Include" />
+        <e p="PatternMatchingLists.fs" t="Include" />
+        <e p="Recursion.fs" t="Include" />
+        <e p="RecursiveTypeDefinitions.fs" t="Include" />
+        <e p="TupleAndRecordTypes.fs" t="Include" />
+        <e p="TypesAndTypeInference.fs" t="Include" />
+        <e p="UnitsOfMeasure.fs" t="Include" />
+        <e p="UseBindings.fs" t="Include" />
+      </e>
+      <e p="Chapter4" t="IncludeRecursive">
+        <e p="Arrays.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter04.fsproj" t="IncludeRecursive" />
+        <e p="ControlFlow.fs" t="Include" />
+        <e p="DotNetEvents.fs" t="Include" />
+        <e p="DotNetIndexers.fs" t="Include" />
+        <e p="DotNetObjectsAndInstanceMembers.fs" t="Include" />
+        <e p="DotNetPatternMatching.fs" t="Include" />
+        <e p="DotNetStaticMethodsAndProperties.fs" t="Include" />
+        <e p="ForwardPipeOperator.fs" t="Include" />
+        <e p="MutableValues.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="TheUnitType.fs" t="Include" />
+      </e>
+      <e p="Chapter5" t="IncludeRecursive">
+        <e p="AbstractClasses.fs" t="Include" />
+        <e p="AccessingBaseClassMembers.fs" t="Include" />
+        <e p="AdditionalConstructors.fs" t="Include" />
+        <e p="Autoproperties.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Casting.fs" t="Include" />
+        <e p="Chapter05.fsproj" t="IncludeRecursive" />
+        <e p="Classes.fs" t="Include" />
+        <e p="Delegates.fs" t="Include" />
+        <e p="Enums.fs" t="Include" />
+        <e p="FSharpTypesWithMembers.fs" t="Include" />
+        <e p="Inheritance.fs" t="Include" />
+        <e p="Interfaces.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="ObjectExpressions.fs" t="Include" />
+        <e p="ObjectExpressionWithInterface.fs" t="Include" />
+        <e p="ObjectExpressionWithInterfaceAndOverride.fs" t="Include" />
+        <e p="OptionalParameters.fs" t="Include" />
+        <e p="OverridingNonFSharpMethods.fs" t="Include" />
+        <e p="PropertiesAndIndexers.fs" t="Include" />
+        <e p="RecordsAsObjects.fs" t="Include" />
+        <e p="RecordsAsObjectsWithDrawing.fs" t="Include" />
+        <e p="StaticMethods.fs" t="Include" />
+        <e p="Structs.fs" t="Include" />
+        <e p="TypeTests.fs" t="Include" />
+      </e>
+      <e p="Chapter6" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter06.fsproj" t="IncludeRecursive" />
+        <e p="Comments.fs" t="Include" />
+        <e p="CustomAttributes.fs" t="Include" />
+        <e p="Modules.fs" t="Include" />
+        <e p="Modules2.fs" t="Include" />
+        <e p="Modules3.fs" t="Include" />
+        <e p="Modules4.fs" t="Include" />
+        <e p="ModuleScope1.fs" t="Include" />
+        <e p="ModuleScope2.fs" t="Include" />
+        <e p="Namespaces.fs" t="Include" />
+        <e p="Namespaces2.fs" t="Include" />
+        <e p="Namespaces3.fs" t="Include" />
+        <e p="Namespaces4.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="OptionalCompilation.fs" t="Include" />
+        <e p="PrivateAndInternal.fs" t="Include" />
+        <e p="QuotedCode.fs" t="Include" />
+        <e p="SignatureFiles.fs" t="Include" />
+        <e p="SignatureFiles.fsi" t="Include" />
+      </e>
+      <e p="Chapter7" t="IncludeRecursive">
+        <e p="ArithmeticOperators.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BitwiseOrAndAndOperators.fs" t="Include" />
+        <e p="Chapter07.fsproj" t="IncludeRecursive" />
+        <e p="CollectionsSeqModule.fs" t="Include" />
+        <e p="Events.fs" t="Include" />
+        <e p="FloatingPointFunctions.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="PrintfModule.fs" t="Include" />
+        <e p="Reflection.fs" t="Include" />
+        <e p="TupleAndConversionFunctions.fs" t="Include" />
+      </e>
+      <e p="Chapter8" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter08ConsoleApp.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="SystemConfiguration.fs" t="Include" />
+      </e>
+      <e p="Chapter8ConsoleApp2" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter08ConsoleApp2.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="SystemIOSequences.fs" t="Include" />
+      </e>
+      <e p="Chapter8ConsoleApp3" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter08ConsoleApp3.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="Chapter8ConsoleApp4" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter08ConsoleApp4.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="Chapter8ConsoleApp5" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter08ConsoleApp5.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="Chapter8ConsoleApp6" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter08ConsoleApp6.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="Chapter8ConsoleApp7" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter08ConsoleApp7.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="Chapter8FSI" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter08FSI.fsproj" t="IncludeRecursive" />
+        <e p="fruits.xml" t="Include" />
+        <e p="Linq.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="SystemIO.fs" t="Include" />
+        <e p="SystemXML.fs" t="Include" />
+        <e p="test.csv" t="Include" />
+      </e>
+      <e p="Chapter9" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="ArrayParallel.fs" t="Include" />
+        <e p="Async.fs" t="Include" />
+        <e p="Async2.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chapter09.fsproj" t="IncludeRecursive" />
+        <e p="MessagePassing.fs" t="Include" />
+        <e p="MessagePassing2.fs" t="Include" />
+        <e p="MessagePassing3.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Reactive.fs" t="Include" />
+        <e p="ReactiveBackgroundWorker.fs" t="Include" />
+        <e p="ReactiveBackgroundWorkerGrid.fs" t="Include" />
+        <e p="SeqParallel.fs" t="Include" />
+        <e p="text1.txt" t="Include" />
+        <e p="text2.txt" t="Include" />
+        <e p="text3.txt" t="Include" />
+        <e p="ThreadLocking.fs" t="Include" />
+        <e p="Threads.fs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_BeginningFSharp4-0.-506121378.00" t="ExcludeRecursive" />
+  </component>
+</project>
